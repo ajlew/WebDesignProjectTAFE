@@ -1,0 +1,275 @@
+/*Project Finis Tempo Trainer*/
+/*
+.class
+#id
+
+#ffd700 finis brand gold
+
+padding-bottom: 25px;
+        color: #363636;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        font-weight: 300;
+        font-size: 25px;
+/*#e8491d replace header footer color  or #cccccc*/
+
+
+body{
+  font: 15px/1.5 ariel,futura, Roboto,Helvetica,sans-serif;
+  padding:0px;
+  margin:0;
+  background-color:#f4f4f4;
+}
+
+/* Global */
+.container{
+  width:100%;
+  margin:auto;
+  overflow:hidden;
+}
+
+/*header text*/
+
+h1,h2,h3{
+	color:Black;
+	text-decoration:none;
+	text-transform: uppercase;
+	
+	font-weight:bold;
+}
+
+
+
+
+
+/* Header **/
+
+header{
+	background-color:#dddddd;
+	min-height:60px;
+  
+}
+header a{
+	color:Black;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:16px;
+	font-weight:bold;
+}
+header li{
+  float:right;
+  display:inline;
+  padding: 0 40px 0 40px;
+}
+header nav{
+  float:right;
+  
+  }
+header .highlight, header .current a{
+	color:#ffd700;
+	font-weight:bold;
+}
+
+/*Image and Nav as a Link*/
+
+header a:hover{
+	color:#cccccc;
+	font-weight:bold;
+	padding:60px;
+	background:#efefef;
+	color:#bbbdc1;
+	margin-top:20px;
+	margin-bottom:20px;
+	
+}
+header{
+    padding-bottom:0px;
+  }
+  
+ 
+ #branding{ 
+	float:center;
+	margin-top:50px;
+	  
+  }
+
+  #weather{ 
+	float:right;
+	margin-top:10px;
+	  
+  }
+
+  
+  
+  
+  
+  
+/* Showcase */
+#showcase  img{
+	
+	height:250px;
+	width:100%;
+	
+}
+
+#showcase h1{
+  text-align:center;
+  font-size:50px;
+  
+}
+
+
+/* Main */
+
+
+article#mainLeft{
+  float:left;
+  width:50%;
+  height:400px;
+}
+
+
+article#mainRight{
+  float:Right; 
+  width:40%;
+  height:300px;
+  margin-top: 50px;
+   margin-bottom: 10px;
+}
+
+aside#mainCenter{
+  float:center;
+  width:30%;
+  height:300px;
+}
+
+
+/* ListboxSection */
+
+ul#section li{
+  list-style: none;
+  padding:10px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+}
+
+
+/* form */
+
+form #section li{
+  list-style: none;
+  padding:10px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+}
+
+/* table */
+
+ #section table  ,th,td{
+  list-style: none;
+  padding:10px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+  text-align: left;
+  text-transform: propercase;
+}
+
+
+
+
+
+/*logo*/
+
+#footerbranding{
+	padding:5px;
+	text-align: Center;
+	background-color:#ffd700;
+    
+}
+#aside img{
+	align:center
+	height:20px;
+	width:30%;
+	
+}
+
+
+
+
+/*footer*/
+footer{
+	padding:10px;
+   text-align: Center;
+	background-color:#dddddd;
+    
+}
+
+article #Left{
+  float:left;
+   /*width:40%;*/
+}
+
+article #Right{
+  float:right;
+   /*width:30%;*/
+}
+
+
+
+/*social media*/
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 20px;
+  text-align: Right;
+  text-decoration: none;
+  margin: 3px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #777777;
+  color: white;
+}
+
+.fa-twitter {
+  background:#777777;
+  color: white;
+}
+
+.fa-google {
+  background: #777777;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #777777;
+  color: white;
+}
+
+.fa-youtube {
+  background: #777777;
+  color: white;
+}
+
+.fa-instagram {
+  background: #777777;
+  color: white;
+}
+
+
+
+
+  
+
+ 
+
+ 
+ 
